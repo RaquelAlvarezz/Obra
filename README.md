@@ -4,6 +4,8 @@ Hemos elegido una paleta de colores siguiendo la imagen corporativa (rojo y blan
 La aplicación consta de 5 páginas realizadas con PHP: Login/Logout, Inicio, Citas, Persoas y Empresas. Todas ellas tienen un header y un footer realizados con JavaScript. El header consta del menú de navegación para desplazarse por las diferentes páginas y de un buscador. El footer contiene enlaces a otras páginas del Concello como el servicio de correo, o portal do empregado o la página del concello.
 ## Login
 En la página de login nos encontramos con un formulario de inicio de sesión con usuario y contraseña. De fondo hemos elegido una imagen del Puente de Rande, símbolo de la ciudad, en blanco y negro.
+![image](https://user-images.githubusercontent.com/91055857/154272379-e48783a9-88a8-4367-8d83-056dc02070a4.png)
+
 ## Inicio
 La página de inicio consta de un resumen de la agenda con las citas que hay en el día y una sección de notas donde las notas se pueden clasificar a través de un código de colores en el tipo de cita (Citas, Reuniones, Documentación y Llamadas)
 ## Citas
